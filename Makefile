@@ -17,7 +17,7 @@ build:
 #
 
 test:
-  echo "No test to run"
+	echo "No test to run"
 	node js/tests/server.js &
 
 #
