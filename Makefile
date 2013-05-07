@@ -7,7 +7,7 @@ HR=\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\#\
 #
 
 build:
-  @echo "\n${HR}"
+	@echo "\n${HR}"
 	@echo "Building amataes TryGit..."
 	@echo "${HR}\n"
 	@node docs/build
