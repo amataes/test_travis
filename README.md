@@ -1,6 +1,6 @@
 try_git
 =======
 
-Fork from TryGit repository.
+Fork from [TryGit](https://github.com/Try-Git) repository.
 
 Just a playground for my git projects
